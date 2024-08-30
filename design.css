@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(104, 94, 94);
+}
+.all{
+    padding: 10px;
+    margin: 20px;
+    line-height: 30px;
+    
+}
+#first{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+    color: blue;
+}
+#second{
+    font-weight: bold;
+    color: aqua;
+    font-size: medium;
+    
+}
+
+table{
+    border: 15px;
+    border-width: 25px;
+    border-color:navy;
+    margin: 5px;
+    color: blue;
+    
+}
